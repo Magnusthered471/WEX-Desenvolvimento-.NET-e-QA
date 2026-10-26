@@ -1,2 +1,2 @@
 # WEX-Desenvolvimento-.NET-e-QA
- Botecamp da Dio focado em estudo de QA
+ Bootcamp da Dio focando em estudo de QA
