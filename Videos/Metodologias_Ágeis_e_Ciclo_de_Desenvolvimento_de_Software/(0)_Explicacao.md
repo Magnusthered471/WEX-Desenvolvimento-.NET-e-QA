@@ -12,7 +12,7 @@
 
 ---
 
-## 🟥🟧🟨🟩🟦🟪 &nbsp;$\color{#3b82f6}{\textsf{O que tem nesta pasta}}$
+## 🟥🟧🟨🟩🟦🟪  $\color{#3b82f6}{\textsf{O que tem nesta pasta}}$
 
 Cada arquivo é o **resumo de uma aula do curso**. Dentro dele você encontra, vídeo por vídeo, o nome do `.mp4`, a duração, o resumo do conteúdo e os **slides** do vídeo.
 
@@ -27,7 +27,7 @@ Cada arquivo é o **resumo de uma aula do curso**. Dentro dele você encontra, v
 
 ---
 
-## 👀 &nbsp;$\color{#f97316}{\textsf{Como fica no navegador}}$
+## 👀  $\color{#f97316}{\textsf{Como fica no navegador}}$
 
 É assim que cada arquivo aparece depois de aberto no navegador:
 
@@ -45,7 +45,7 @@ Cada arquivo é o **resumo de uma aula do curso**. Dentro dele você encontra, v
 
 ---
 
-## ⚠️ &nbsp;$\color{#a855f7}{\textsf{Importante: o GitHub não mostra o resumo}}$
+## ⚠️  $\color{#a855f7}{\textsf{Importante: o GitHub não mostra o resumo}}$
 
 ```diff
 - No GitHub: você vê só o código HTML
@@ -57,9 +57,9 @@ Cada arquivo é o **resumo de uma aula do curso**. Dentro dele você encontra, v
 
 ---
 
-## 🚀 &nbsp;$\color{#22c55e}{\textsf{Como usar}}$
+## 🚀  $\color{#22c55e}{\textsf{Como usar}}$
 
-### 1️⃣ &nbsp;$\color{#d94a55}{\textsf{Baixar}}$
+### 1️⃣  $\color{#d94a55}{\textsf{Baixar}}$
 
 Escolha a forma que for mais fácil:
 
@@ -70,7 +70,7 @@ Escolha a forma que for mais fácil:
   git clone <link-do-repositorio>
   ```
 
-### 2️⃣ &nbsp;$\color{#f59e0b}{\textsf{Abrir no navegador}}$ 🌐
+### 2️⃣  $\color{#f59e0b}{\textsf{Abrir no navegador}}$ 🌐
 
 Abra o arquivo baixado em **qualquer navegador**: ![Firefox](https://img.shields.io/badge/Firefox-ff7139?style=flat-square&logo=firefoxbrowser&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-fb542b?style=flat-square&logo=brave&logoColor=white) ![Chrome](https://img.shields.io/badge/Chrome-4285f4?style=flat-square&logo=googlechrome&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078d7?style=flat-square&logo=microsoftedge&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-ff1b2d?style=flat-square&logo=opera&logoColor=white) ![Vivaldi](https://img.shields.io/badge/Vivaldi-ef3939?style=flat-square&logo=vivaldi&logoColor=white)
 
@@ -84,7 +84,7 @@ No Linux, pelo terminal (as aspas são necessárias por causa dos espaços e par
 xdg-open "(1)_Processos de software.html"
 ```
 
-### 3️⃣ &nbsp;$\color{#007acc}{\textsf{Alternativa: VS Code}}$ 💻
+### 3️⃣  $\color{#007acc}{\textsf{Alternativa: VS Code}}$ 💻
 
 Se preferir não usar o navegador diretamente, dá para ver pelo **VS Code**:
 
@@ -97,7 +97,7 @@ Se preferir não usar o navegador diretamente, dá para ver pelo **VS Code**:
 
 ---
 
-## ✨ &nbsp;$\color{#ec4899}{\textsf{Dicas de navegação}}$
+## ✨  $\color{#ec4899}{\textsf{Dicas de navegação}}$
 
 > [!TIP]
 > - 🔢 No topo de cada página há **botões numerados** para pular direto para um vídeo.
@@ -107,7 +107,7 @@ Se preferir não usar o navegador diretamente, dá para ver pelo **VS Code**:
 
 ---
 
-## 🗺️ &nbsp;$\color{#14b8a6}{\textsf{Mapa do curso}}$
+## 🗺️  $\color{#14b8a6}{\textsf{Mapa do curso}}$
 
 ```mermaid
 flowchart LR
