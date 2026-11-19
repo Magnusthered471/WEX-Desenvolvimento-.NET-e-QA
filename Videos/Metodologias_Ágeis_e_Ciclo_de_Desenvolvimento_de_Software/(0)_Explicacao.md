@@ -18,9 +18,9 @@ Cada arquivo é o **resumo de uma aula do curso**. Dentro dele você encontra, v
 
 | Aula | Arquivo | Vídeos resumidos |
 |:-:|---|---|
-| ![Aula 1](https://img.shields.io/badge/📘_Aula_1-d94a55?style=for-the-badge) | `(1)_Processos de software.html` | Apresentação do curso · Definindo processo, fluxo e padrões · Modelo Prescritivo · Modelos incremental, iterativo e concorrente · Modelos especializados · Processo Unificado |
-| ![Aula 2](https://img.shields.io/badge/🚀_Aula_2-f59e0b?style=for-the-badge) | `(2)_Desenvolvimento.html` | O manifesto ágil · Extreme Programming (XP) · Scrum · Outros modelos ágeis |
-| ![Aula 3](https://img.shields.io/badge/🧪_Aula_3-22c55e?style=for-the-badge) | `(3)_Testes no mundo.html` | Contextualizando a atividade de teste · Testes nas abordagens ágeis · Métodos de testes nos modelos ágeis · Conclusão |
+| ![Aula 1](https://img.shields.io/badge/📘_Aula_1-d94a55?style=for-the-badge) | [`(1)_Processos de software.html`](https://github.com/Magnusthered471/WEX-Desenvolvimento-.NET-e-QA/blob/Rei-davi/Videos/Metodologias_%C3%81geis_e_Ciclo_de_Desenvolvimento_de_Software/%281%29_Processos%20de%20software.html) | Apresentação do curso · Definindo processo, fluxo e padrões · Modelo Prescritivo · Modelos incremental, iterativo e concorrente · Modelos especializados · Processo Unificado |
+| ![Aula 2](https://img.shields.io/badge/🚀_Aula_2-f59e0b?style=for-the-badge) | [`(2)_Desenvolvimento ágil.html`](https://github.com/Magnusthered471/WEX-Desenvolvimento-.NET-e-QA/blob/Rei-davi/Videos/Metodologias_%C3%81geis_e_Ciclo_de_Desenvolvimento_de_Software/%282%29_Desenvolvimento%20%C3%A1gil.html) | O manifesto ágil · Extreme Programming (XP) · Scrum · Outros modelos ágeis |
+| ![Aula 3](https://img.shields.io/badge/🧪_Aula_3-22c55e?style=for-the-badge) | [`(3)_Testes no mundo ágil.html`](https://github.com/Magnusthered471/WEX-Desenvolvimento-.NET-e-QA/blob/Rei-davi/Videos/Metodologias_%C3%81geis_e_Ciclo_de_Desenvolvimento_de_Software/%283%29_Testes%20no%20mundo%20%C3%A1gil.html) | Contextualizando a atividade de teste · Testes nas abordagens ágeis · Métodos de testes nos modelos ágeis · Conclusão |
 
 > [!NOTE]
 > Os arquivos têm só os **nomes diferentes**: o conteúdo é o mesmo dos resumos originais. Os slides estão **dentro** de cada HTML, então cada arquivo funciona sozinho, sem pasta de imagens e sem internet.
@@ -63,7 +63,7 @@ Cada arquivo é o **resumo de uma aula do curso**. Dentro dele você encontra, v
 
 Escolha a forma que for mais fácil:
 
-- 📄 **Um arquivo só:** clique no arquivo aqui no GitHub e use o botão **Download raw file** (ícone de seta para baixo, no canto direito acima do código).
+- 📄 **Um arquivo só:** clique no nome do arquivo na tabela acima (ou abra-o aqui no GitHub) e use o botão **Download raw file** (ícone de seta para baixo, no canto direito acima do código).
 - 📦 **Tudo de uma vez:** na página inicial do repositório, clique em **Code → Download ZIP** e extraia.
 - ⌨️ **Pelo terminal:**
   ```bash
